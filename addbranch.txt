@@ -1,0 +1,9 @@
+git checkout -b branch_name
+
+That will add a brance to the file.
+
+git add -A
+
+git commit -m "Adding branch that tells me how to add a branch." 
+
+git push https://github.com/Anima-Fatali/practice.git  //sometimes url?
