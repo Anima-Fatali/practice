@@ -1,0 +1,17 @@
+Um k.  I create a branch.
+
+git checkout -b branch_name_goes_here
+
+Then I make what changes that I want to do.
+
+then I add things
+
+git add -A
+
+I commit my changes
+
+git commit -m "Message of what i'm changing"
+
+then I push the request.
+
+git push https://github.com/rest_of_the_directory_url/file.git
